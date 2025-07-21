@@ -1,4 +1,4 @@
-#!/Users/hanseoyeon/DeepMinder/paper-reader/venv/bin/python
+#!/Users/hanseoyeon/DeepMinder/BE/paper-reader/venv/bin/python3.13
 # -*- coding: utf-8 -*-
 import re
 import sys
